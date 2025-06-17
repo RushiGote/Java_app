@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Here's a Java program that calculates PF (Provident Fund) contributions for an employee based on the basic salary.
+
 public class PFCalculator {
 
     public static void main(String[] args) {
